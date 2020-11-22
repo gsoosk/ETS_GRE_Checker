@@ -1,0 +1,10 @@
+{
+    "TOKEN": "",
+    "AUTH": {
+      "ENABLE": false,
+      "PASSWORD": "",
+      "USERS": []
+    },
+    "GRE_USER" : "",
+    "GRE_PASS" : ""
+  }
